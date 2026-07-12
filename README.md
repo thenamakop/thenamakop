@@ -25,7 +25,7 @@ education: B.Tech CSE @ BML Munjal University
 currently_building: MoodMarble — anonymous workplace mood-tracking app
 stack: [TypeScript, JavaScript, Python, Lua, React Native, Node.js, PostgreSQL]
 background: Started out writing game logic in Lua for Roblox
-workflow: AI-assisted coding (TRAE IDE) + a heavily customized Neovim setup
+workflow: AI-assisted coding (Devin) + a heavily customized Neovim setup
 fun_fact: "Still, to this day, trying to exit Neovim 🥲"
 ```
 
