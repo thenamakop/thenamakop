@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=220&section=header&text=Hi%2C%20I%27m%20Maulik%20Gupta&fontSize=38&fontColor=00FF41&animation=fadeIn&fontAlignY=32&desc=Data%20Engineer%20Intern%20%7C%20Full-Stack%20%26%20Mobile%20Developer%20%7C%20Neovim%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=220&section=header&text=Hi%2C%20I%27m%20Maulik%20Gupta&fontSize=38&fontColor=00FF41&animation=fadeIn&fontAlignY=32&desc=Data%20Engineer%20Intern%20%7C%20Full-Stack%20%26%20Mobile%20Developer%20%7C%20Neovim%20Enthusiast&descAlignY=55&descSize=16&v=2" width="100%"/>
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student+%40+BML+Munjal+University;Data+Engineer+Intern+%40+BytePX+Technologies;Building+MoodMarble+with+React+Native+%2B+Expo;Ex-Roblox+%2F+Lua+Game+Developer;Currently+Trying+To+Exit+Neovim" alt="Typing SVG" />
