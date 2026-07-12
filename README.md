@@ -43,18 +43,26 @@ fun_fact: "Still, to this day, trying to exit Neovim 🥲"
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%"><a href="https://github.com/thenamakop/MoodMarble"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=MoodMarble&amp;theme=github_dark&amp;hide_border=false&amp;border_color=00FF41&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/thenamakop/CrashCue"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=CrashCue&amp;theme=github_dark&amp;hide_border=false&amp;border_color=00FF41&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9" width="100%"/></a></td>
+</tr>
+</table>
 
-<a href="https://github.com/thenamakop/MoodMarble"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=MoodMarble&amp;theme=github_dark&amp;hide_border=false&amp;border_color=00FF41&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9" width="49%"/></a>
-<a href="https://github.com/thenamakop/CrashCue"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=CrashCue&amp;theme=github_dark&amp;hide_border=false&amp;border_color=00FF41&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9" width="49%"/></a>
+<table width="100%">
+<tr>
+<td width="50%"><a href="https://github.com/thenamakop/CompoSense"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=CompoSense&amp;theme=github_dark&amp;hide_border=false&amp;border_color=00FF41&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/thenamakop/TaskMaster_Final"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=TaskMaster_Final&amp;theme=github_dark&amp;hide_border=false&amp;border_color=00FF41&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9" width="100%"/></a></td>
+</tr>
+</table>
 
-<a href="https://github.com/thenamakop/CompoSense"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=CompoSense&amp;theme=github_dark&amp;hide_border=false&amp;border_color=00FF41&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9" width="49%"/></a>
-<a href="https://github.com/thenamakop/TaskMaster_Final"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=TaskMaster_Final&amp;theme=github_dark&amp;hide_border=false&amp;border_color=00FF41&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9" width="49%"/></a>
-
-<a href="https://github.com/thenamakop/init.lua"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=init.lua&amp;theme=github_dark&amp;hide_border=false&amp;border_color=00FF41&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9" width="49%"/></a>
-<a href="https://github.com/thenamakop/the-docket"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=the-docket&amp;theme=github_dark&amp;hide_border=false&amp;border_color=00FF41&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9&amp;v=2" width="49%"/></a>
-
-</div>
+<table width="100%">
+<tr>
+<td width="50%"><a href="https://github.com/thenamakop/init.lua"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=init.lua&amp;theme=github_dark&amp;hide_border=false&amp;border_color=00FF41&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9" width="100%"/></a></td>
+<td width="50%"><a href="https://github.com/thenamakop/the-docket"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=the-docket&amp;theme=github_dark&amp;hide_border=false&amp;border_color=00FF41&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9&amp;v=2" width="100%"/></a></td>
+</tr>
+</table>
 
 <br/>
 
