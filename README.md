@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=220&section=header&text=Hi%2C%20I%27m%20Maulik%20Gupta&fontSize=38&fontColor=00FF41&animation=fadeIn&fontAlignY=32&desc=Data%20Engineer%20Intern%20%7C%20Full-Stack%20%26%20Mobile%20Developer%20%7C%20Neovim%20Enthusiast&descAlignY=55&descSize=16&v=2" width="100%"/>
+<img src="https://capsule-render-beryl.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=220&section=header&text=Hi%2C%20I%27m%20Maulik%20Gupta&fontSize=38&fontColor=00FF41&animation=fadeIn&fontAlignY=32&desc=Data%20Engineer%20Intern%20%7C%20Full-Stack%20%26%20Mobile%20Developer%20%7C%20Neovim%20Enthusiast&descAlignY=55&descSize=16&v=2" width="100%"/>
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF41&center=true&vCenter=true&width=750&lines=B.Tech+CSE+Student+%40+BML+Munjal+University;Data+Engineer+Intern+%40+BytePX+Technologies;Building+MoodMarble+with+React+Native+%2B+Expo;Ex-Roblox+%2F+Lua+Game+Developer;Currently+Trying+To+Exit+Neovim" alt="Typing SVG" />
@@ -69,9 +69,14 @@ fun_fact: "Still, to this day, trying to exit Neovim 🥲"
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td width="50%">
 <a href="https://github.com/thenamakop/init.lua">
 <img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&repo=init.lua&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/thenamakop/the-docket">
+<img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&repo=the-docket&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 </a>
 </td>
 </tr>
@@ -142,18 +147,17 @@ An anonymous workplace mood-tracking app, built solo as part of my internship. A
 
 ## 📫 Let's Connect
 
-<!-- TODO: replace these placeholder links with your real ones -->
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:maulikgupta21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/maulik-gupta-602306332"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/MaulikGupta9"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=150&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render-beryl.vercel.app/api?type=waving&color=0:00FF41,100:0D1117&height=150&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
