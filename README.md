@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1618" height="444" alt="image" src="https://github.com/user-attachments/assets/30dd6b90-df94-42c5-82fd-0824edd1ebb5" /><div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00FF41&height=220&section=header&text=Hi%2C%20I%27m%20Maulik%20Gupta&fontSize=38&fontColor=00FF41&animation=fadeIn&fontAlignY=32&desc=Data%20Engineer%20Intern%20%7C%20Full-Stack%20%26%20Mobile%20Developer%20%7C%20Neovim%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
 
@@ -25,7 +25,7 @@ education: B.Tech CSE @ BML Munjal University
 currently_building: MoodMarble — anonymous workplace mood-tracking app
 stack: [TypeScript, JavaScript, Python, Lua, React Native, Node.js, PostgreSQL]
 background: Started out writing game logic in Lua for Roblox
-workflow: AI-assisted coding (TRAE IDE) + a heavily customized Neovim setup
+workflow: AI-assisted coding (DEVIN IDE) + a heavily customized Neovim setup
 fun_fact: "Still, to this day, trying to exit Neovim 🥲"
 ```
 
@@ -145,9 +145,9 @@ An anonymous workplace mood-tracking app, built solo as part of my internship. A
 <!-- TODO: replace these placeholder links with your real ones -->
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="mailto:maulikgupta21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="www.linkedin.com/in/maulik-gupta-602306332"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://x.com/MaulikGupta9"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
 </div>
