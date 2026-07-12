@@ -10,6 +10,6 @@
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0s" fill="freeze"/>
     <text x="600" y="145" font-family="Fira Code, Consolas, monospace" font-size="46" font-weight="700" fill="#00FF41" text-anchor="middle">Hi, I'm Maulik Gupta</text>
-    <text x="600" y="188" font-family="Fira Code, Consolas, monospace" font-size="19" fill="#00FF41" text-anchor="middle">Data Engineer Intern | Full-Stack &amp; Mobile Developer | Neovim Enthusia[...]
+    <text x="600" y="188" font-family="Fira Code, Consolas, monospace" font-size="19" fill="#00FF41" text-anchor="middle">Data Engineer Intern | Full-Stack &amp; Mobile Developer | Neovim Enthusiast</text>
   </g>
 </svg>
