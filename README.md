@@ -47,31 +47,31 @@ fun_fact: "Still, to this day, trying to exit Neovim 🥲"
 <tr>
 <td width="50%">
 <a href="https://github.com/thenamakop/MoodMarble">
-<img src="https://YOUR-STATS-APP.vercel.app/api/pin/?username=thenamakop&repo=MoodMarble&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+<img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&repo=MoodMarble&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/thenamakop/CrashCue">
-<img src="https://YOUR-STATS-APP.vercel.app/api/pin/?username=thenamakop&repo=CrashCue&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+<img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&repo=CrashCue&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 </a>
 </td>
 </tr>
 <tr>
 <td width="50%">
 <a href="https://github.com/thenamakop/CompoSense">
-<img src="https://YOUR-STATS-APP.vercel.app/api/pin/?username=thenamakop&repo=CompoSense&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+<img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&repo=CompoSense&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 </a>
 </td>
 <td width="50%">
 <a href="https://github.com/thenamakop/TaskMaster_Final">
-<img src="https://YOUR-STATS-APP.vercel.app/api/pin/?username=thenamakop&repo=TaskMaster_Final&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+<img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&repo=TaskMaster_Final&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 </a>
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 <a href="https://github.com/thenamakop/init.lua">
-<img src="https://YOUR-STATS-APP.vercel.app/api/pin/?username=thenamakop&repo=init.lua&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
+<img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&repo=init.lua&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" />
 </a>
 </td>
 </tr>
@@ -105,10 +105,10 @@ An anonymous workplace mood-tracking app, built solo as part of my internship. A
 
 <div align="center">
 
-<img src="https://YOUR-STATS-APP.vercel.app/api?username=thenamakop&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats-thenamak.vercel.app/api?username=thenamakop&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" height="165"/>
 <img src="https://github-readme-streak-stats-nu-one.vercel.app/?user=thenamakop&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=00FF41&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" height="165"/>
 
-<img src="https://YOUR-STATS-APP.vercel.app/api/top-langs/?username=thenamakop&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats-thenamak.vercel.app/api/top-langs/?username=thenamakop&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" height="165"/>
 
 </div>
 
