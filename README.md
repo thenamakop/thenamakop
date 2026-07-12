@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTIwMCAzMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImJnZ3JhZCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMEQxMTE3Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzAwRkY0MSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjEyMDAiIGhlaWdodD0iMzAwIiBmaWxsPSJ1cmwoI2JnZ3JhZCkiLz4KICA8cGF0aCBkPSJNMCwyMjUgQzMwMCwyNjUgOTAwLDE4NSAxMjAwLDIzNSBMMTIwMCwzMDAgTDAsMzAwIFoiIGZpbGw9IiMwRDExMTciIG9wYWNpdHk9IjAuMzUiLz4KICA8ZyBvcGFjaXR5PSIwIj4KICAgIDxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9Im9wYWNpdHkiIGZyb209IjAiIHRvPSIxIiBkdXI9IjEuMnMiIGJlZ2luPSIwcyIgZmlsbD0iZnJlZXplIi8+CiAgICA8dGV4dCB4PSI2MDAiIHk9IjE0NSIgZm9udC1mYW1pbHk9IkZpcmEgQ29kZSwgQ29uc29sYXMsIG1vbm9zcGFjZSIgZm9udC1zaXplPSI0NiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iIzAwRkY0MSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+SGksIEknbSBNYXVsaWsgR3VwdGE8L3RleHQ+CiAgICA8dGV4dCB4PSI2MDAiIHk9IjE4OCIgZm9udC1mYW1pbHk9IkZpcmEgQ29kZSwgQ29uc29sYXMsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIxOSIgZmlsbD0iIzAwRkY0MSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+RGF0YSBFbmdpbmVlciBJbnRlcm4gfCBGdWxsLVN0YWNrICZhbXA7IE1vYmlsZSBEZXZlbG9wZXIgfCBOZW92aW0gRW50aHVzaWFzdDwvdGV4dD4KICA8L2c+Cjwvc3ZnPgo=" width="100%"/>
+<img src="assets/header.svg" width="100%"/>
 
 <a href="#">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=22&amp;duration=3000&amp;pause=900&amp;color=00FF41&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=B.Tech+CSE+Student+%40+BML+Munjal+University;Data+Engineer+Intern+%40+BytePX+Technologies;Building+MoodMarble+with+React+Native+%2B+Expo;Ex-Roblox+%2F+Lua+Game+Developer;Currently+Trying+To+Exit+Neovim" alt="Typing SVG" />
@@ -45,14 +45,14 @@ fun_fact: "Still, to this day, trying to exit Neovim 🥲"
 
 <div align="center">
 
-<a href="https://github.com/thenamakop/MoodMarble"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=MoodMarble&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9" width="49%"/></a>
-<a href="https://github.com/thenamakop/CrashCue"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=CrashCue&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9" width="49%"/></a>
+<a href="https://github.com/thenamakop/MoodMarble"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=MoodMarble&amp;theme=github_dark&amp;hide_border=false&amp;border_color=00FF41&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9" width="49%"/></a>
+<a href="https://github.com/thenamakop/CrashCue"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=CrashCue&amp;theme=github_dark&amp;hide_border=false&amp;border_color=00FF41&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9" width="49%"/></a>
 
-<a href="https://github.com/thenamakop/CompoSense"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=CompoSense&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9" width="49%"/></a>
-<a href="https://github.com/thenamakop/TaskMaster_Final"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=TaskMaster_Final&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9" width="49%"/></a>
+<a href="https://github.com/thenamakop/CompoSense"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=CompoSense&amp;theme=github_dark&amp;hide_border=false&amp;border_color=00FF41&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9" width="49%"/></a>
+<a href="https://github.com/thenamakop/TaskMaster_Final"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=TaskMaster_Final&amp;theme=github_dark&amp;hide_border=false&amp;border_color=00FF41&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9" width="49%"/></a>
 
-<a href="https://github.com/thenamakop/init.lua"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=init.lua&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9" width="49%"/></a>
-<a href="https://github.com/thenamakop/the-docket"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=the-docket&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9&amp;v=2" width="49%"/></a>
+<a href="https://github.com/thenamakop/init.lua"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=init.lua&amp;theme=github_dark&amp;hide_border=false&amp;border_color=00FF41&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9" width="49%"/></a>
+<a href="https://github.com/thenamakop/the-docket"><img src="https://github-readme-stats-thenamak.vercel.app/api/pin/?username=thenamakop&amp;repo=the-docket&amp;theme=github_dark&amp;hide_border=false&amp;border_color=00FF41&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9&amp;v=2" width="49%"/></a>
 
 </div>
 
@@ -84,10 +84,10 @@ An anonymous workplace mood-tracking app, built solo as part of my internship. A
 
 <div align="center">
 
-<img src="https://github-readme-stats-thenamak.vercel.app/api?username=thenamakop&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats-nu-one.vercel.app/?user=thenamakop&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;stroke=00FF41&amp;ring=00FF41&amp;fire=00FF41&amp;currStreakLabel=00FF41" height="165"/>
+<img src="https://github-readme-stats-thenamak.vercel.app/api?username=thenamakop&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=false&amp;border_color=00FF41&amp;bg_color=0D1117&amp;title_color=00FF41&amp;icon_color=00FF41&amp;text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats-nu-one.vercel.app/?user=thenamakop&amp;theme=github-dark-blue&amp;hide_border=false&amp;border_color=00FF41&amp;background=0D1117&amp;stroke=00FF41&amp;ring=00FF41&amp;fire=00FF41&amp;currStreakLabel=00FF41" height="165"/>
 
-<img src="https://github-readme-stats-thenamak.vercel.app/api/top-langs/?username=thenamakop&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00FF41&amp;text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats-thenamak.vercel.app/api/top-langs/?username=thenamakop&amp;layout=compact&amp;theme=github_dark&amp;hide_border=false&amp;border_color=00FF41&amp;bg_color=0D1117&amp;title_color=00FF41&amp;text_color=c9d1d9" height="165"/>
 
 </div>
 
